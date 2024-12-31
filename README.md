@@ -1,2 +1,2 @@
-# tg
-tg补全
+# surge
+surge规则补全

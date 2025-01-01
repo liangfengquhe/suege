@@ -3,17 +3,6 @@
 # 更新: 2024年10月18日03:46:20
 # 数量: 6063条
 
-# Twitter
-DOMAIN-SUFFIX,cms-twdigitalassets.com
-DOMAIN-SUFFIX,tellapart.com
-DOMAIN-SUFFIX,twtrdns.net
-DOMAIN-SUFFIX,twttr.net
-DOMAIN-SUFFIX,twvid.com
-DOMAIN-SUFFIX,x.com
-
-# Github
-DOMAIN-SUFFIX,ghcr.io
-
 # 知识交流
 DOMAIN-SUFFIX,bulianglin.com
 DOMAIN-SUFFIX,clashios.com
@@ -56,20 +45,6 @@ DOMAIN-SUFFIX,adtidy.org
 
 # 域名服务
 DOMAIN-SUFFIX,godaddy.com
-
-# VPN相关
-DOMAIN-SUFFIX,bajie.one
-DOMAIN-SUFFIX,bajie.run
-DOMAIN-SUFFIX,bajie.wiki
-DOMAIN-SUFFIX,ktmcloud.shop
-DOMAIN-SUFFIX,kuromis.com
-DOMAIN-SUFFIX,xf.gl
-DOMAIN-SUFFIX,xn--6nq44r2uh9rhj7f.com
-DOMAIN-SUFFIX,xn--ehqx7tcnnope.com
-DOMAIN-SUFFIX,xn--lmq622c7qjhl4a.com
-DOMAIN-SUFFIX,xn--mes358a9urctx.com
-
-
 # ------------------------------------------------
 # 以下规则来源为ACL4SSR，仅删除部分重复
 # MyList && Other
@@ -6027,10 +6002,6 @@ IP-CIDR,203.208.50.0/24,no-resolve
 IP-CIDR,220.181.174.162/32,no-resolve
 IP-CIDR,220.181.174.226/32,no-resolve
 IP-CIDR,220.181.174.34/32,no-resolve
-# Instagram
-DOMAIN-SUFFIX,cdninstagram.com
-DOMAIN-SUFFIX,instagr.am
-DOMAIN-SUFFIX,instagram.com
 # Kakao Talk
 DOMAIN-SUFFIX,kakao.co.kr
 DOMAIN-SUFFIX,kakao.com
@@ -6071,11 +6042,6 @@ DOMAIN-SUFFIX,tap.io
 DOMAIN-SUFFIX,taptap.tw
 # Twitch
 DOMAIN-KEYWORD,ttvnw
-# Twitter
-DOMAIN-SUFFIX,t.co
-DOMAIN-SUFFIX,twimg.co
-DOMAIN-SUFFIX,twimg.com
-DOMAIN-SUFFIX,twimg.org
 # TeraBox
 DOMAIN-SUFFIX,terabox.com
 DOMAIN-SUFFIX,teraboxcdn.com

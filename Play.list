@@ -1,14 +1,3 @@
-# Twitter
-DOMAIN-SUFFIX,cms-twdigitalassets.com
-DOMAIN-SUFFIX,tellapart.com
-DOMAIN-SUFFIX,twtrdns.net
-DOMAIN-SUFFIX,twttr.net
-DOMAIN-SUFFIX,twvid.com
-DOMAIN-SUFFIX,x.com
-
-# Github
-DOMAIN-SUFFIX,ghcr.io
-
 # 知识交流
 DOMAIN-SUFFIX,bulianglin.com
 DOMAIN-SUFFIX,clashios.com
@@ -32,7 +21,6 @@ IP-CIDR,34.120.195.249/32,no-resolve
 DOMAIN-SUFFIX,maxcdn.bootstrapcdn.com
 # > 图床
 DOMAIN-SUFFIX,sm.ms
-
 # 工具
 DOMAIN-SUFFIX,adguard-vpn.com
 DOMAIN-SUFFIX,gpt4all.io
@@ -40,8 +28,6 @@ DOMAIN-SUFFIX,imyfone.com
 DOMAIN-SUFFIX,vimeocdn.com
 DOMAIN-SUFFIX,whatsmydns.net
 DOMAIN-SUFFIX,wirewax.com
-# > Surge
-DOMAIN-SUFFIX,nssurge.com
 # > Docker
 DOMAIN-SUFFIX,docker.io
 # > 工具导航
@@ -51,20 +37,6 @@ DOMAIN-SUFFIX,adtidy.org
 
 # 域名服务
 DOMAIN-SUFFIX,godaddy.com
-
-# VPN相关
-DOMAIN-SUFFIX,bajie.one
-DOMAIN-SUFFIX,bajie.run
-DOMAIN-SUFFIX,bajie.wiki
-DOMAIN-SUFFIX,ktmcloud.shop
-DOMAIN-SUFFIX,kuromis.com
-DOMAIN-SUFFIX,xf.gl
-DOMAIN-SUFFIX,xn--6nq44r2uh9rhj7f.com
-DOMAIN-SUFFIX,xn--ehqx7tcnnope.com
-DOMAIN-SUFFIX,xn--lmq622c7qjhl4a.com
-DOMAIN-SUFFIX,xn--mes358a9urctx.com
-
-
 # ------------------------------------------------
 # 以下规则来源为ACL4SSR，仅删除部分重复
 # MyList && Other
@@ -6888,19 +6860,6 @@ DOMAIN-SUFFIX,rocksdb.org
 DOMAIN-SUFFIX,whatsapp.com
 DOMAIN-SUFFIX,whatsapp.net
 DOMAIN-KEYWORD,.facebook.
-# > Microsoft
-DOMAIN-SUFFIX,aka.ms
-DOMAIN-SUFFIX,github.blog
-DOMAIN-SUFFIX,github.com
-DOMAIN-SUFFIX,github.io
-DOMAIN-SUFFIX,githubassets.com
-DOMAIN-SUFFIX,githubusercontent.com
-DOMAIN-SUFFIX,onedrive.live.com
-DOMAIN-SUFFIX,streaming.mediaservices.windows.net
-DOMAIN,assets1.xboxlive.com
-DOMAIN,assets2.xboxlive.com
-DOMAIN,az416426.vo.msecnd.net
-DOMAIN,az668014.vo.msecnd.net
 # > Pinterest
 DOMAIN-SUFFIX,pinimg.com
 DOMAIN-KEYWORD,.pinterest.
@@ -6916,9 +6875,6 @@ DOMAIN-SUFFIX,redditstatic.com
 # > Reuters
 DOMAIN-SUFFIX,reuters.com
 DOMAIN-SUFFIX,reutersmedia.net
-# > Steam
-DOMAIN-SUFFIX,steamcommunity.com
-# DOMAIN,store.steampowered.com
 # > The Economist
 DOMAIN-SUFFIX,economist.com
 DOMAIN-SUFFIX,static-economist.com
@@ -6931,17 +6887,6 @@ DOMAIN-SUFFIX,nytimg.com
 DOMAIN-SUFFIX,nytlog.com
 DOMAIN-SUFFIX,nytstyle.com
 DOMAIN-SUFFIX,tmagazine.com
-# > Twitter
-DOMAIN-SUFFIX,periscope.tv
-DOMAIN-SUFFIX,pscp.tv
-DOMAIN-SUFFIX,t.co
-DOMAIN-SUFFIX,tweetdeck.com
-DOMAIN-SUFFIX,twimg.co
-DOMAIN-SUFFIX,twimg.com
-DOMAIN-SUFFIX,twitpic.com
-DOMAIN-SUFFIX,twitter.com
-DOMAIN-SUFFIX,twitter.jp
-DOMAIN-SUFFIX,vine.co
 # > Wikimedia Foundation
 DOMAIN-SUFFIX,mediawiki.org
 DOMAIN-SUFFIX,wikibooks.org
@@ -6995,4 +6940,3 @@ DOMAIN,news-assets.apple.com
 DOMAIN,news-client.apple.com
 DOMAIN,news-client-search.apple.com
 DOMAIN,news-edge.apple.com
-DOMAIN,n

@@ -26,7 +26,6 @@ IP-CIDR,34.120.195.249/32,no-resolve
 DOMAIN-SUFFIX,maxcdn.bootstrapcdn.com
 # > 图床
 DOMAIN-SUFFIX,sm.ms
-
 # 工具
 DOMAIN-SUFFIX,adguard-vpn.com
 DOMAIN-SUFFIX,gpt4all.io
@@ -34,15 +33,12 @@ DOMAIN-SUFFIX,imyfone.com
 DOMAIN-SUFFIX,vimeocdn.com
 DOMAIN-SUFFIX,whatsmydns.net
 DOMAIN-SUFFIX,wirewax.com
-# > Surge
-DOMAIN-SUFFIX,nssurge.com
 # > Docker
 DOMAIN-SUFFIX,docker.io
 # > 工具导航
 DOMAIN-SUFFIX,007.tg
 # > Adguard
 DOMAIN-SUFFIX,adtidy.org
-
 # 域名服务
 DOMAIN-SUFFIX,godaddy.com
 # ------------------------------------------------

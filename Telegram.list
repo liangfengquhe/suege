@@ -9,8 +9,8 @@
 # This file contains domains used by Telegram Messenger.
 #########################################
 DOMAIN,this_ruleset_is_made_by_sukkaw.ruleset.skk.moe
-DOMAIN,api.iturrit.com
-DOMAIN,api.swiftgram.app
+DOMAIN-SUFFIX,iturrit.com
+DOMAIN-SUFFIX,swiftgram.app
 DOMAIN-SUFFIX,t.me
 DOMAIN-SUFFIX,tx.me
 DOMAIN-SUFFIX,telegram.me

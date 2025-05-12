@@ -1,7 +1,7 @@
 DOMAIN,api.imem.app
-DOMAIN,ws.intentchat.app
-DOMAIN,api.swiftgram.app
-DOMAIN,api.iturrit.com
+DOMAIN-SUFFIX,intentchat.app
+DOMAIN-SUFFIX,swiftgram.app
+DOMAIN-SUFFIX,iturrit.com
 DOMAIN-KEYWORD,nicegram
 DOMAIN-SUFFIX,cdn-telegram.org
 DOMAIN-SUFFIX,comments.app
